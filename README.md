@@ -1,2 +1,2 @@
 # DDNSR
-D-DNSR: A Dual-Input Degradation Network For Real-World Super-Resolution
+DDNSR: A Dual-Input Degradation Network for Real-World Super-Resolution
