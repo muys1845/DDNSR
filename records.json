@@ -1,0 +1,12 @@
+{
+  "track1-source": "track1-train-source",
+  "track1-target-div2k": "train-target",
+  "track2-source": "track2-train-source",
+  "track2-target-div2k": "train-target",
+  "track2-target-cleanup": "dped-clean",
+  "track2-target-mixed": [
+    "train-target",
+    "dped-clean"
+  ],
+  "track2-target-canon": "dped-canon"
+}
