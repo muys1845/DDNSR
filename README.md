@@ -86,7 +86,7 @@ All directories of training datasets are stored in this file, the naming rules a
 We provide pre-trained models of both the [degradation network](https://www.jianguoyun.com/p/DehjpTwQ7cO4CxjD1voEIAA) and the [reconstruction network](https://www.jianguoyun.com/p/DXCOLlkQ7cO4CxjL1voEIAA) in `hdf5` format.
 
 - For Track1 we only provide one model training on target DIV2K.
-- For Track2 we provide four different models training on different targets (mentioned above):
+- For Track2 we provide four different models training on different targets (mentioned above).
 
 ## Test
 
@@ -99,9 +99,9 @@ We provide pre-trained models of both the [degradation network](https://www.jian
 
 ### Track1
 
-1. Download files "Corrupted-tr-x.zip" and "train-target.zip" (mentioned above), then unzip into the "datasets" directory
+1. Download files "Corrupted-tr-x.zip" and "train-target.zip" (mentioned above), then unzip into the "datasets" directory.
 1. Make sure the directory names in the "records.json" file is correct (the naming rules were mentioned above).
-1. Run `python3 train.py -source_name track1 -target_type div2k`
+1. Run `python3 train.py -source_name track1 -target_type div2k`.
 
 ### Track2
 
