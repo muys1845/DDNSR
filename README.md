@@ -83,7 +83,7 @@ All directories of training datasets are stored in this file, the naming rules a
 
 ## Pre-trained Models
 
-We provide pre-trained models of both the [degradation network](https://www.jianguoyun.com/p/DehjpTwQ7cO4CxjD1voEIAA) and the [reconstruction network](https://www.jianguoyun.com/p/DXCOLlkQ7cO4CxjL1voEIAA) in `hdf5` format.
+We provide pre-trained models of both the [degradation network](https://www.jianguoyun.com/p/DR-80rcQ7cO4CxjZgvwEIAA) and the [reconstruction network](https://www.jianguoyun.com/p/DTEWcuUQ7cO4CxjagvwEIAA) in `hdf5` format.
 
 - For Track1 we only provide one model training on target DIV2K.
 - For Track2 we provide four different models training on different targets (mentioned above).
